@@ -13,7 +13,7 @@
 ## 🚀 Download
 You can download the official ISO image directly from the following link:
 
-👉 **[Download copOSus (Google Drive)](https://google.com)**
+👉 **[https://drive.google.com/file/d/1gULMIPXXzShfixHtoSWq0Z7G2UK5RSQL/view?usp=drive_link)**
 
 ---
 
