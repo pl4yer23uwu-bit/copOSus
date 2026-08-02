@@ -34,9 +34,10 @@ Built on top of CachyOS (an optimized Arch Linux derivative), copOSus inherits h
 ---
 
 ## 📸 Screenshots
-*(Coming Soon! This section will showcase the AI assistant installer interface and the customized KDE Plasma desktop)*
-
----
+ *(This section will showcase the AI assistant installer interface and the customized KDE Plasma desktop)*
+Captura de pantalla_20260802_100204.png
+Captura de pantalla_20260802_100251.png
+Videocaptura de pantalla_20260802_095940.webm
 
 ## 🛠️ Quick Installation Guide
 
