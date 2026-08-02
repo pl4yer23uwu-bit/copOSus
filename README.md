@@ -32,12 +32,17 @@ The OS comes pre-configured with the **KDE Plasma** desktop environment. It offe
 Built on top of CachyOS (an optimized Arch Linux derivative), copOSus inherits heavily optimized kernels compiled with support for advanced CPU architectures (like x86-64-v3 and v4). This ensures lightning-fast responsiveness for gaming, coding, and daily tasks.
 
 ---
-
 ## 📸 Screenshots
- *(This section will showcase the AI assistant installer interface and the customized KDE Plasma desktop)*
-Captura de pantalla_20260802_100204.png
-Captura de pantalla_20260802_100251.png
-Videocaptura de pantalla_20260802_095940.webm
+
+### 🎮 Windows Executable (.exe) Compatibility Demo
+![copOSus open.exe](Videocaptura%20de%20pantalla_20260802_095940.webm)
+
+### 🎨 Pre-configured KDE Plasma Desktop
+![copOSus Desktop 1](Captura%20de%20pantalla_20260802_100204.png)
+
+![copOSus Desktop 2](Captura%20de%20pantalla_20260802_100251.png)
+
+
 
 ## 🛠️ Quick Installation Guide
 
